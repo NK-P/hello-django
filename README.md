@@ -2,7 +2,7 @@
 
 at SK텔링크
 
-by NKP
+by NKP with Ask Company
 
 ## 커리큘럼
 
