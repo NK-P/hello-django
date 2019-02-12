@@ -3,3 +3,8 @@
 at SK텔링크
 
 by NKP
+
+## 커리큘럼
+
+장고 개발환경 세팅
+git/github
